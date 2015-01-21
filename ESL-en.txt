@@ -1,0 +1,17 @@
+"ESL 1.0 (English text)
+Experimental Software License (ESL) version 1.0
+Copyright (c) copyright_holders, year
+
+
+    This license allows individuals / organizations to receive a copy of this software and associated documentation (hereinafter referred to as the "Software" ), to deal in the Software without restriction , including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and / or sell copies of the Software, and to permit persons to whom the Software is subject to the following conditions :
+    1. The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+    2. Note to the pilot or training status should be included in all copies or substantial portions of the Software.
+    3. Software, all copies or substantial portions must be documented at the minimum level required to ensure freedom of experimentation with the Software or its improvement.
+    4. Software, all copies thereof, and / or a significant part, as well as the name (names) of the above copyright holders shall not be used for advertising or other purposes, contributing to an increase in sales.
+    5. Software, all copies or substantial portions may be released under a different license with similar conditions (GPL-like, and MIT-like license) subject to the following points:
+  A ) making many improvements to the software that transform its status to "stable for permanent use",
+  B ) the mandatory retention of copyright of the above persons / organizations,
+  С ) the mandatory mention of the Software as a primary source.
+    THIS SOFTWARE IS PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESS OR IMPLIED, INCLUDING, BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT.
+    THIS SOFTWARE MAKES NO WARRANTY OF HIGH EFFICIENCY, PERFORMANCE OR ANY OTHER HIGH PARAMETERS AS IS EXPERIMENTAL AND MAY POTENTIALLY HAVE UNPREDICTABLE SIDE EFFECTS, AND ALSO POSE SOME HAZARD IMPORTANT DATA.
+IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OF THE SOFTWARE OR OTHER DEALINGS IN THE SOFTWARE. "
